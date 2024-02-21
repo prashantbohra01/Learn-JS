@@ -1,0 +1,28 @@
+html {
+    margin: 0;
+  }
+
+body {
+    display: flex;
+    justify-content: center;
+    background-color: gray;
+}
+h1{
+    margin-left: 35px;
+  
+}
+
+button {
+     margin-left: 40%;
+}
+
+h3{
+    margin-left: 25%;
+}
+p{
+    margin-left: 17%;
+}
+#results{
+    margin-left: 50px;
+    border: 2px solid black
+}
